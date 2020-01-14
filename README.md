@@ -10,6 +10,8 @@
 
 ##Overview
 
+NOTE: This repo was forked from kemra102/puppet-ius since it was not longer being maintained.
+
 Module for managing the IUS Community repo.
 
 From the IUS Project page [https://iuscommunity.org/](https://iuscommunity.org/):
